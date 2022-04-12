@@ -6,7 +6,7 @@ By doing so, I hope to:
 
 - de-risk physical device lock-in by decoupling the software ergonomics and mental models I invest in from the hardware layer
 - reduce the cognitive load required to understand debugging environments as they evolve in complexity
-- maintain efficiency through shared understanding and interfaces across different machines
+- maintain efficiency through consistent, shared gestures and concepts across workspaces
 - encourage audacious experimentation by making my configuration cattle not pets
 - document my setup more formally through a workflow that encourages documentation
 
