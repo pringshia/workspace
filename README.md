@@ -12,7 +12,9 @@ By doing so, I hope to:
 
 ## Instructions
 
-```
+*Requirements: Docker and an internet connection on first install*
+
+```sh
 docker-compose run --rm --service-ports dev
 ```
 
