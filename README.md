@@ -10,6 +10,12 @@ By doing so, I hope to:
 - encourage audacious experimentation by making my configuration cattle not pets
 - document my setup more formally through a workflow that encourages documentation
 
+## Instructions
+
+```
+docker-compose run --rm --service-ports dev
+```
+
 ## TODOs
 
 - Consider using a different base image, for example [gitpod/openvscode-server](https://github.com/gitpod-io/openvscode-server/) or [gitpod/worspace-full](https://github.com/gitpod-io/workspace-images)?
