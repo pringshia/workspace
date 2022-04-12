@@ -1,0 +1,10 @@
+source <(antibody init)
+antibody bundle romkatv/powerlevel10k
+antibody bundle zsh-users/zsh-syntax-highlighting
+source ~/dotfiles/.p10k.zsh
+source ~/dotfiles/aliases.zsh
+source <(fasd --init auto)
+
+# set-up diff-so-fancy
+git config --global core.pager "~/tools/diff-so-fancy | less --tabs=4 -RFX"
+git config --global interactive.diffFilter "~/tools/diff-so-fancy --patch"
