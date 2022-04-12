@@ -1,4 +1,4 @@
-# portable dotfiles
+# portable workspace
 
 This is an experiment to "commoditize" my development environment - making it portable, reproducible, and well-documented.
 
