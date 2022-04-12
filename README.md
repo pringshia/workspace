@@ -4,11 +4,11 @@ This is an experiment to "commoditize" my development environment - making it po
 
 By doing so, I hope to:
 
-- de-risk device/environment lock-in by making the ergonomics and mental models I invest in portable
-- reduce the cognitive load required when debugging environments
-- allow me to maintain efficiency and shared context across different machines
+- de-risk physical device lock-in by decoupling the software ergonomics and mental models I invest in from the hardware layer
+- reduce the cognitive load required to understand debugging environments as they evolve in complexity
+- maintain efficiency through shared understanding and interfaces across different machines
 - encourage audacious experimentation by making my configuration cattle not pets
-- document my setup more formally
+- document my setup more formally through a workflow that encourages documentation
 
 ## TODOs
 
