@@ -87,6 +87,7 @@
     "Red Component" : 1,
     "Blue Component" : 0.99652090000000004
   },
+  "Brighten Bold Text" : false,
   "Custom Command" : "No",
   "ASCII Anti Aliased" : true,
   "Non Ascii Font" : "Monaco 12",
@@ -278,6 +279,7 @@
   },
   "Window Type" : 0,
   "Blur Radius" : 4.9487948803191486,
+  "Cursor Type" : 2,
   "Background Image Location" : "",
   "Blur" : true,
   "Badge Color" : {
@@ -321,11 +323,11 @@
     "Blue Component" : 0.37647059999999999
   },
   "Ansi 4 Color" : {
-    "Red Component" : 0.05280303955078125,
+    "Red Component" : 0.095536834560334682,
     "Color Space" : "sRGB",
-    "Blue Component" : 1,
+    "Blue Component" : 0.94024658203125,
     "Alpha Component" : 1,
-    "Green Component" : 0.78558857867028564
+    "Green Component" : 0.74903457566113629
   },
   "Ansi 5 Color" : {
     "Green Component" : 0.4509804,
