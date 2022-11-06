@@ -4,10 +4,9 @@ My attempt to "commoditize" my dev environment - making it portable, reproducibl
 
 By doing so, I hope to:
 
-- de-risking physical device lock-in... decouple the software ergonomics & mental models I invest in from the hardware layer
-- reduce the cognitive load required to understand debugging environments as they evolve in complexity
-- maintain efficiency through consistent, shared gestures and concepts across workspaces
-- encourage fearless experimentation of my dev setup, by making reversions easy
+- de-risk physical device lock-in... decouple the software ergonomics & mental models I invest in from the hardware layer
+- protect efficiency through consistent, shared gestures and concepts across workspaces
+- encourage fearless experimentation of my dev setup, by making reversions & testing easy
 - better documentation, by being explicit about the setup steps I'm encourage to document more
 
 ## Instructions
