@@ -31,7 +31,7 @@ It uses the following font: https://github.com/googlefonts/dm-mono
 - Set up editor (neovim) [**DONE**]
 - Slim down the Docker image size!
   - Don't use homebrew for neovim, build instead?
-- Add some CLI/MD slides as a welcome/learning tool:https://maaslalani.com/slides/ https://maaslalani.com/slides/
+- Add some CLI/MD slides as a welcome/learning tool: https://maaslalani.com/slides/ https://maaslalani.com/slides/
 
 
 
