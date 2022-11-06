@@ -26,3 +26,4 @@ make sh   # run the shell
 - Deploy the image somewhere?
 - Set up aliases
 - Set up editor [**DONE**]
+- Slim down the Docker image size!
