@@ -1,9 +1,5 @@
 {
-  "Ansi 3 Color" : {
-    "Green Component" : 1,
-    "Red Component" : 1,
-    "Blue Component" : 0.71372550000000001
-  },
+  "Use Non-ASCII Font" : false,
   "Tags" : [
 
   ],
@@ -12,10 +8,10 @@
     "Red Component" : 0.71165029999999996,
     "Blue Component" : 0.9982605
   },
-  "Ansi 7 Color" : {
-    "Green Component" : 0.93353169999999996,
-    "Red Component" : 0.93353169999999996,
-    "Blue Component" : 0.93353169999999996
+  "Ansi 6 Color" : {
+    "Green Component" : 0.77254900000000004,
+    "Red Component" : 0.77647060000000001,
+    "Blue Component" : 0.99607840000000003
   },
   "Draw Powerline Glyphs" : true,
   "Bold Color" : {
@@ -23,17 +19,17 @@
     "Red Component" : 1,
     "Blue Component" : 1
   },
-  "Ansi 8 Color" : {
-    "Green Component" : 0.4862745,
-    "Red Component" : 0.4862745,
-    "Blue Component" : 0.4862745
-  },
-  "Ansi 9 Color" : {
-    "Green Component" : 0.71372550000000001,
+  "Normal Font" : "DMMono-Regular 17",
+  "Ansi 3 Color" : {
+    "Green Component" : 1,
     "Red Component" : 1,
-    "Blue Component" : 0.69019609999999998
+    "Blue Component" : 0.71372550000000001
   },
-  "Custom Directory" : "Recycle",
+  "Ansi 0 Color" : {
+    "Green Component" : 0.30978869999999997,
+    "Red Component" : 0.30978869999999997,
+    "Blue Component" : 0.30978869999999997
+  },
   "Rows" : 25,
   "Default Bookmark" : "No",
   "Right Option Key Sends" : 0,
@@ -74,9 +70,9 @@
   "Sync Title" : false,
   "Prompt Before Closing 2" : false,
   "BM Growl" : true,
-  "Mouse Reporting" : true,
   "Command" : "",
   "Description" : "Default",
+  "Mouse Reporting" : true,
   "Screen" : -1,
   "Selection Color" : {
     "Green Component" : 0.22248570000000001,
@@ -115,6 +111,7 @@
     "Red Component" : 1,
     "Blue Component" : 0.7996491
   },
+  "Thin Strokes" : 0,
   "Use Italic Font" : true,
   "Unlimited Scrollback" : false,
   "Keyboard Map" : {
@@ -302,6 +299,7 @@
     "Red Component" : 0.87591359999999996,
     "Blue Component" : 0.99703969999999997
   },
+  "ASCII Ligatures" : true,
   "Name" : "basic-iterm-theme",
   "Cursor Text Color" : {
     "Green Component" : 1,
@@ -315,17 +313,13 @@
     "Blue Component" : 0.37647059999999999
   },
   "Transparency" : 0.026205119680851062,
-  "Ansi 1 Color" : {
-    "Green Component" : 0.4235294,
-    "Red Component" : 1,
+  "Guid" : "187580A2-1037-4167-A562-8FD568ED94A1",
+  "Horizontal Spacing" : 1,
+  "Ansi 2 Color" : {
+    "Green Component" : 1,
+    "Red Component" : 0.65882350000000001,
     "Blue Component" : 0.37647059999999999
   },
-  "Ansi 0 Color" : {
-    "Green Component" : 0.30978869999999997,
-    "Red Component" : 0.30978869999999997,
-    "Blue Component" : 0.30978869999999997
-  },
-  "Horizontal Spacing" : 1,
   "Ansi 4 Color" : {
     "Red Component" : 0.05280303955078125,
     "Color Space" : "sRGB",
@@ -338,13 +332,6 @@
     "Red Component" : 1,
     "Blue Component" : 0.99215690000000001
   },
-  "Use Non-ASCII Font" : false,
-  "Ansi 6 Color" : {
-    "Green Component" : 0.77254900000000004,
-    "Red Component" : 0.77647060000000001,
-    "Blue Component" : 0.99607840000000003
-  },
-  "Normal Font" : "Monaco 17",
   "Link Color" : {
     "Red Component" : 0,
     "Color Space" : "sRGB",
@@ -352,10 +339,25 @@
     "Alpha Component" : 1,
     "Green Component" : 0.35915297269821167
   },
-  "Guid" : "16F3F8CE-544B-4E44-A822-A900F793B7E7",
-  "Ansi 2 Color" : {
-    "Green Component" : 1,
-    "Red Component" : 0.65882350000000001,
+  "Ansi 7 Color" : {
+    "Green Component" : 0.93353169999999996,
+    "Red Component" : 0.93353169999999996,
+    "Blue Component" : 0.93353169999999996
+  },
+  "Ansi 8 Color" : {
+    "Green Component" : 0.4862745,
+    "Red Component" : 0.4862745,
+    "Blue Component" : 0.4862745
+  },
+  "Ansi 9 Color" : {
+    "Green Component" : 0.71372550000000001,
+    "Red Component" : 1,
+    "Blue Component" : 0.69019609999999998
+  },
+  "Ansi 1 Color" : {
+    "Green Component" : 0.4235294,
+    "Red Component" : 1,
     "Blue Component" : 0.37647059999999999
-  }
+  },
+  "Custom Directory" : "Recycle"
 }
