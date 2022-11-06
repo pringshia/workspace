@@ -20,7 +20,7 @@ This file is best viewed with the slide CLI tool: `https://github.com/maaslalani
 
 ---
 
-## Vetted Tools
+## My Tools
 
 - `nvim` for editing files
 - `zsh` for command line
