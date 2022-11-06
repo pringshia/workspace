@@ -18,6 +18,9 @@ make      # build the docker image
 make sh   # run the shell
 ```
 
+You can also add the iTerm profile included in the repo: `basic-iterm-theme.json`.
+It uses the following font: https://github.com/googlefonts/dm-mono
+
 ## TODOs
 
 - Consider using a different base image? e.g. [gitpod/openvscode-server](https://github.com/gitpod-io/openvscode-server/) or [gitpod/workspace-full](https://github.com/gitpod-io/workspace-images)?
@@ -25,5 +28,11 @@ make sh   # run the shell
 - Set up continuous integration with Github Actions
 - Deploy the image somewhere?
 - Set up aliases
-- Set up editor [**DONE**]
+- Set up editor (neovim) [**DONE**]
 - Slim down the Docker image size!
+  - Don't use homebrew for neovim, build instead?
+- Add some CLI/MD slides as a welcome/learning tool:https://maaslalani.com/slides/ https://maaslalani.com/slides/
+
+
+
+
